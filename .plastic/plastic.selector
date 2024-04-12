@@ -1,0 +1,4 @@
+repository "QuizMaster@fengiiii@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
